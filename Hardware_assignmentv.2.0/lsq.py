@@ -2,8 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Set save paths for the plots
-train_save_path = '/home/ronit/hardware/train_alt.png'
-valid_save_path = '/home/ronit/hardware/valid_alt.png'
+train_save_path = '/home/ronit/github/GVV_hardware/Hardware_assignmentv.2.0/train.png'
+valid_save_path = '/home/ronit/github/GVV_hardware/Hardware_assignmentv.2.0/valid.png'
 
 # Function to load data
 def load_data(filename):
